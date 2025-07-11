@@ -1,4 +1,4 @@
-# Banking Dashboard - Risk Analysis
+# Banking Dashboard - Risk Analysis (Ongoing)
 
 
 # Banking Dashboard Project
@@ -55,3 +55,11 @@ The dataset includes the following key columns:
 ### Conclusion
 
 This banking dashboard will serve as a vital tool for assessing loan applications, ultimately enhancing the decision-making process by leveraging data-driven insights into applicant risk profiles.
+
+P/S : Note on Data Quality and DTI Calculation
+Data Quality Concerns: The dataset contains several anomalies and irregularities that may influence the accuracy of the Debt-to-Income (DTI) calculations. Specifically:
+
+Outliers: Certain entries exhibit extreme values that skew the overall DTI ratios.
+Missing Values: Some records have incomplete data, leading to potential miscalculations.
+Inconsistent Formats: Variability in how data is recorded (e.g., different currencies or units) can complicate analysis.
+Due to these issues, the DTI calculations derived from this dataset should be interpreted with caution. Further data cleansing might be necessary for more accurate financial assessments.
