@@ -56,7 +56,8 @@ The dataset includes the following key columns:
 
 This banking dashboard will serve as a vital tool for assessing loan applications, ultimately enhancing the decision-making process by leveraging data-driven insights into applicant risk profiles.
 
-P/S : THE DATASET USE FOR TRAINING PURPOSE 
+##P/S : THE DATASET USE FOR TRAINING PURPOSE 
+
 Note on Data Quality and DTI Calculation
 Data Quality Concerns: The dataset contains several anomalies and irregularities that may influence the accuracy of the Debt-to-Income (DTI) calculations. Specifically:
 
